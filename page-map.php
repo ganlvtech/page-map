@@ -1,9 +1,10 @@
 <?php
 /*
- * Plugin Name: Page map
- * Plugin URI: http://wordpress.org/plugins/page-map/
+ * Plugin Name: Page Map
+ * Plugin URI: https://github.com/ganlvtech/page-map
  * Description: A mini map for WordPress page.
- * Author: Lars Jung, Ganlv
+ * Author: Ganlv
+ * Author URI: https://github.com/ganlvtech
  * Version: 1.0
  * License: MIT
  * License URI: https://opensource.org/licenses/MIT
